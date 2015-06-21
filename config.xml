@@ -9,10 +9,10 @@
 <author>Manu Mishra</author>
 <preference name="permissions" value="none"/>
 
-   <icon src="res/icon/android/drawable-ldpi/newspaperList.png" gap:platform="android" gap:qualifier="ldpi" />
-    <icon src="res/icon/android/drawable-mdpi/newspaperList.png" gap:platform="android" gap:qualifier="mdpi" />
-    <icon src="res/icon/android/drawable-hdpi/newspaperList.png" gap:platform="android" gap:qualifier="hdpi" />
-    <icon src="res/icon/android/drawable-xhdpi/newspaperList.png" gap:platform="android" gap:qualifier="xhdpi" />
-    <icon src="res/icon/android/drawable-xxhdpi/newspaperList.png" gap:platform="android" gap:qualifier="xxhdpi" />
+   <icon src="res/icon/android/drawable-ldpi/NewspaperList.png" gap:platform="android" gap:qualifier="ldpi" />
+    <icon src="res/icon/android/drawable-mdpi/NewspaperList.png" gap:platform="android" gap:qualifier="mdpi" />
+    <icon src="res/icon/android/drawable-hdpi/NewspaperList.png" gap:platform="android" gap:qualifier="hdpi" />
+    <icon src="res/icon/android/drawable-xhdpi/NewspaperList.png" gap:platform="android" gap:qualifier="xhdpi" />
+    <icon src="res/icon/android/drawable-xxhdpi/NewspaperList.png" gap:platform="android" gap:qualifier="xxhdpi" />
    
 </widget>
