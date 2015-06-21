@@ -2,17 +2,17 @@
 
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.manumishra.apps"
+        id        = "com.tutorialspoint.onlineviewer"
         version   = "1.0">
 <name>Newspaper List</name>
 <description>Newspaper List Management System</description>
 <author>Manu Mishra</author>
 <preference name="permissions" value="none"/>
 
-   <icon src="res/icon/android/drawable-ldpi/NewspaperList.png" gap:platform="android" gap:qualifier="ldpi" />
-    <icon src="res/icon/android/drawable-mdpi/NewspaperList.png" gap:platform="android" gap:qualifier="mdpi" />
-    <icon src="res/icon/android/drawable-hdpi/NewspaperList.png" gap:platform="android" gap:qualifier="hdpi" />
-    <icon src="res/icon/android/drawable-xhdpi/NewspaperList.png" gap:platform="android" gap:qualifier="xhdpi" />
-    <icon src="res/icon/android/drawable-xxhdpi/NewspaperList.png" gap:platform="android" gap:qualifier="xxhdpi" />
+   <icon src="res/icon/android/drawable-ldpi/icon.png" gap:platform="android" gap:qualifier="ldpi" />
+    <icon src="res/icon/android/drawable-mdpi/icon.png" gap:platform="android" gap:qualifier="mdpi" />
+    <icon src="res/icon/android/drawable-hdpi/icon.png" gap:platform="android" gap:qualifier="hdpi" />
+    <icon src="res/icon/android/drawable-xhdpi/icon.png" gap:platform="android" gap:qualifier="xhdpi" />
+    <icon src="res/icon/android/drawable-xxhdpi/icon.png" gap:platform="android" gap:qualifier="xxhdpi" />
    
 </widget>
